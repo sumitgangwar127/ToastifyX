@@ -1,6 +1,6 @@
 {
   "name": "toastifyx",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight and animated toast notification system for React",
   "main": "dist/react-smart-toast.umd.js",
   "module": "dist/react-smart-toast.es.js",
