@@ -1,0 +1,42 @@
+{
+  "name": "toastifyx",
+  "version": "1.0.2",
+  "description": "A lightweight and animated toast notification system for React",
+  "main": "dist/react-smart-toast.umd.js",
+  "module": "dist/react-smart-toast.es.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "vite build"
+  },
+  "keywords": [
+    "react",
+    "toast",
+    "notification",
+    "react-toast",
+    "react-toast-hook",
+    "toast-library"
+  ],
+  "author": "Sumit Gangwar",
+  "license": "MIT",
+  "sideEffects": false,
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-icons": "^4.10.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sumitgangwar/react-smart-toast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sumitgangwar/react-smart-toast/issues"
+  },
+  "homepage": "https://github.com/sumitgangwar/react-smart-toast#readme",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.6.0",
+    "vite": "^7.0.0"
+  }
+}

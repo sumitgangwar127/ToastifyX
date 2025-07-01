@@ -1,0 +1,4 @@
+src/
+.vite/
+node_modules/
+*.log
