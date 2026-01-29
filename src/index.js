@@ -1,5 +1,20 @@
-import useToast from './useToast.jsx';
-import Toast from './Toast';
-import './Toast.css';
+import {
+  show,
+  success,
+  error,
+  info,
+  warning
+} from "./toastifyx";
 
-export { useToast, Toast };
+import "./toastifyx.css";
+
+const ToastifyX = {
+  show,
+  success,
+  error,
+  info,
+  warning
+};
+
+export default ToastifyX;
+export { show, success, error, info, warning };
