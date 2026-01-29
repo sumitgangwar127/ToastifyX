@@ -1,4 +1,5 @@
 # 🍞 ToastifyX
+### 🔗 **Documentation:** [toastifyx-docs.vercel.app](https://toastifyx-docs.vercel.app/)
 
 A lightweight, animated toast notification library for **Vanilla JavaScript**.  
 No frameworks. No dependencies. Just clean, customizable toasts ✨
