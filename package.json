@@ -1,6 +1,6 @@
 {
   "name": "toastifyx",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A lightweight and animated toast notification library for Vanilla JavaScript",
   "main": "dist/toastifyx.umd.js",
   "module": "dist/toastifyx.es.js",
